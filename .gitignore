@@ -1,0 +1,56 @@
+# IDE
+*.vs/
+**/.idea/
+**/.vsconfig
+
+# Compiled and generated files
+**.slo
+**.lo
+**.o
+**.obj
+**.gch
+**.pch
+**.so
+**.dylib
+**.dll
+**.mod
+**.lai
+**.la
+**.a
+**.lib
+**.exe
+**.out
+**.app
+**.ipa
+**.xcodeproj
+**.xcworkspace
+**.sln
+**.suo
+**.opensdf
+**.sdf
+**.VC.db
+**.VC.opendb
+
+# Archives (ship zips as GitHub Release assets, not commits)
+**.zip
+**.rar
+**.7z
+
+# UE generated folders
+**/Binaries/
+**/Intermediate/
+**/Saved/
+**/DerivedDataCache/
+**/Build/
+**/Builds/
+**/*_BuiltData.uasset
+
+# Plugin comes from Fab, never commit it here
+**/Plugins/
+
+# Per-user content
+**/Content/Developers/
+**/Content/Collections/
+
+# Graphify generated output
+**/graphify-out/
