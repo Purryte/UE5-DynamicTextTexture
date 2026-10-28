@@ -7,7 +7,7 @@ Dynamic Text Texture adds a **Layered Render Target** asset: a render target tha
 layers (text, images, UMG widgets, or custom C++ layers) into a texture any material can sample. Edit it in the
 Details panel at edit time, or drive it from Blueprint or C++ at runtime.
 
-**Requirements:** Unreal Engine 5.6 or later.
+**Requirements:** Unreal Engine 5.7 or later.
 
 ## Contents
 
