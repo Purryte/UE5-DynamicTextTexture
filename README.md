@@ -1,9 +1,6 @@
 # UE5-DynamicTextTexture
 Official documentation for the Dynamic Text Texture Unreal Engine plugin: setup, usage, and examples.
 
-# UE5-DynamicTextTexture
-Official documentation for the Dynamic Text Texture Unreal Engine plugin: setup, usage, examples.
-
 # Dynamic Text Texture — Documentation
 
 Dynamic Text Texture adds a **Layered Render Target** asset: a render target that composites an ordered stack of
